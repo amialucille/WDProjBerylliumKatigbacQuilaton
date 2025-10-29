@@ -39,19 +39,19 @@ Explore biomes, buildings, mobs, and materials from each dimension while learnin
 ![Homepage Wireframe](./images/Homepage.png)
 
 ### 🌳 Overworld Page
-![Overworld Wireframe](./images/The_Overworld.png)
+![Overworld Wireframe](./images/TheOverworld.png)
 
 ### 🌋 Nether Page
-![Nether Wireframe](./images/The_Nether.png)
+![Nether Wireframe](./images/TheNether.png)
 
 ### 🕳️ End Page
-![End Wireframe](./images/The_End.png)
+![End Wireframe](./images/TheEnd.png)
 
 ### 📘 Content Page 1 - Dimensions
-![Dimensions Wireframe](./images/Content_Page_1_-__Dimensions.png)
+![Dimensions Wireframe](./images/Dimensions.png)
 
 ### 💡 Content Page 2 - Fun Facts
-![Fun Facts Wireframe](./images/Content_Page_2_-_FunFacts.png)
+![Fun Facts Wireframe](./images/FunFacts.png)
 
 ---
 
