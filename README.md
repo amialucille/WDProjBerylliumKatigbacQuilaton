@@ -17,17 +17,17 @@ Explore biomes, buildings, mobs, and materials from each dimension while learnin
 
 ## Website Outline (5 Pages)
 
-| **Page**      | **Subtitle / Content** |
-|----------------|------------------------|
-| **Home**       | An introduction to the three dimensions visually through the portals. From here, visitors can navigate to each dimension’s page. |
-| **Overworld**  | Biomes (forest, desert, plains, mountains), Villages, Temples, Strongholds, Passive mobs. |
-| **Nether**     | Biomes (Crimson Forest, Soul Sand Valley), Fortresses, Bastions, Hostile mobs, Lava lakes. |
-| **End**        | End islands, End cities, Endermen, Ender dragon, and rare structures. |
-| **Fun Facts**  | Survival tips 101! Learn how to: <ul><li>Move from one world to another</li><li>Survive each world</li><li>Use tools and potions effectively</li><li>Craft essential items</li></ul> |
+| **Page #** | **Subtitle**      | **Content** |
+|------------|----------|------------------------|
+|1 | **Home**       | An introduction to the three dimensions visually through the portals. From here, visitors can navigate to each dimension’s page. |
+|2 | **Overworld**  | Biomes (forest, desert, plains, mountains), Villages, Temples, Strongholds, Passive mobs. |
+|3 | **Nether**     | Biomes (Crimson Forest, Soul Sand Valley), Fortresses, Bastions, Hostile mobs, Lava lakes. |
+|4 | **End**        | End islands, End cities, Endermen, Ender dragon, and rare structures. |
+|5 | **Fun Facts**  | Survival tips 101! Learn how to: <ul><li>Move from one world to another</li><li>Survive each world</li><li>Use tools and potions effectively</li><li>Craft essential items</li></ul> |
 
 ---
 
-## JavaScript Incorporation
+## JavaScript Incorporation 
 - **Interactive Portal Animation**: Hovering over each portal on the homepage reveals a preview of the corresponding dimension.  
 - **Random Biome Generator**: A button that displays a random biome from any of the three worlds (Overworld, Nether, End).  
 - **Optional Feature**: Collapsible info boxes for mobs or structures to keep pages neat and readable.  
